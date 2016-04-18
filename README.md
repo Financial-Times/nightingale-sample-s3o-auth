@@ -2,11 +2,12 @@
 
 ### Installation:
 ```js
+git clone https://github.com/Financial-Times/nightingale-sample-s3o-auth.git
 npm install express
 npm install s3o-middleware
-node server.js
+node nightingale-sample-s3o-auth/server.js
 ```
-Navigate to http://localhost:8083 and login with your ft ad credentials
+Navigate to http://localhost:8083 and login with your ft credentials
 
 ### Further docs:
 
