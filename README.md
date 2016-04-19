@@ -1,7 +1,7 @@
 # nightingale-sample-s3o-auth
 
 ### Installation:
-```js
+```bash
 git clone https://github.com/Financial-Times/nightingale-sample-s3o-auth.git
 npm install express
 npm install s3o-middleware
